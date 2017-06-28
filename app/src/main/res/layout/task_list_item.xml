@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp">
+
+    <android.support.v7.widget.AppCompatCheckBox
+        android:id="@+id/mycheckbox"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+
+        />
+
+    <EditText
+        android:id="@+id/task_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="40dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_toEndOf="@id/mycheckbox"
+        android:layout_toRightOf="@id/mycheckbox"
+        android:labelFor="@id/task_text"
+        android:textAppearance="?textAppearanceListItem"
+        android:textColor="#000000" />
+
+    <ImageButton
+        android:id="@+id/delete_task_button"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/mycheckbox"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/del_task"
+        android:src="@drawable/ic_action_discard" />
+
+</RelativeLayout>

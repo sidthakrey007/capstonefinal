@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">DoNote</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string name="searchView_content_description">Search by Label name in Case sensitive value</string>
+    <string name="action_share">Share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_hint">Title</string>
+    <string name="title_content_description">Edit Title</string>
+    <string name="description_hint">Description</string>
+    <string name="description_content_desc">Edit Description</string>
+    <string name="fab_save_todo">Save Note</string>
+    <string name="settings_fab_content_description">Slide up settings ui from Botton</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="new_task_content_description">Add new Task </string>
+    <string name="new_task">Add new Task </string>
+<string name="fab_save_note">Save Note</string>
+    <string name="slide_1_title">Make Notes!</string>
+    <string name="slide_1_desc">The easiest way to maintain notes for you daily chores!</string>
+
+    <string name="slide_2_title">ToDo Lists</string>
+    <string name="slide_2_desc">Makes easy to manage todo lists and to have track over them!</string>
+
+
+    <string name="fab_add_label">Add new label</string>
+    <string name="fab_save_label">Save labels</string>
+    <string name="delete_note_button_content_description">Delete Note</string>
+    <string name="add_new_note">Add new note</string>
+    <string name="next_page">Next Page</string>
+    <string name="skip_page">Skip page</string>
+    <string name="sign_in_via_google">Sign in via Google</string>
+    <string name="add_new_label">Add new label</string>
+    <string name="save_labels">Save Labels</string>
+    <string name="color">Color</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="label_icon">Label Icon</string>
+    <string name="label">Label</string>
+    <string name="nolabel">NoLabel</string>
+    <string name="edit_label">Edit Label</string>
+    <string name="color_icon">Color Icon</string>
+    <string name="todo_empty_text">Sorry.!!Currently no ToDo lists are there. Add new todo lists</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="note_empty_text">Sorry.!!Currently no ToDo lists are there. Add new notes</string>
+    <string name="delete_label">Delete Label</string>
+    <string name="drawer_content_description">Navigation drawer header</string>
+    <string name="navigation_header_backgroung_image">Navigation header backgroung image</string>
+    <string name="photo">Profile Photo</string>
+    <string name="del_task">Delete Task</string>
+    <string name="delete_todo">Delete Todo</string>
+    <string name="donote">DoNote</string>
+    <string name="label_dialog_message">Enter label name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="label_dialog_heading">Enter label name</string>
+    <string name="manage_labels">Manage Labels</string>
+    <string name="lables">Labels</string>
+    <string name="labels_desc">Labels to view notes and todo label wise</string>
+    <string name="todo">ToDo</string>
+    <string name="notes">Notes</string>
+    <string name="log_out">Log Out</string>
+    <string name="purple">Set Purple Color</string>
+    <string name="yellow">Set Yellow Color</string>
+    <string name="green">Set Green Color</string>
+    <string name="blue">Set Blue Color</string>
+    <string name="orange">Set Orange Color</string>
+    <string name="menu_icon">Menu icon</string>
+    <string name="expand_icon">Expand Menu</string>
+    <string name="welcome_image_content_desc">Welcome slide Image</string>
+    <string name="note_icon">Note Image</string>
+    <string name="todo_icon">Todo List Image</string>
+    <string name="failed_auth">Authentication failed.</string>
+</resources>
